@@ -1,4 +1,6 @@
-# Version-ctrl-with-git
+
+# Version Control With Git 
+*The Hamoye Machine Learning Externship (Winter 2021)* 
 
 **How to contribute to a repository/project on github**
 
@@ -12,3 +14,6 @@
 5. Stage changes
 6. Commit changes
 7. Create a pull request (PR)
+
+
+ 
