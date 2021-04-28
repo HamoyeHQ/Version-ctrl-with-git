@@ -1,6 +1,6 @@
 
 # Version Control With Git 
-*The Hamoye Machine Learning Externship (Winter 2021)* 
+*The Hamoye Data Science Innternsip* 
 
 **How to contribute to a repository/project on github**
 
