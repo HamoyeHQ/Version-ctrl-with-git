@@ -1,6 +1,6 @@
 
 # Version Control With Git 
-*The Hamoye Data Science Innternsip* 
+*The Hamoye Data Science Internsip* 
 
 **How to contribute to a repository/project on github**
 
