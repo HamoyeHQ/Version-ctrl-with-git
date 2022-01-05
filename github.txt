@@ -1,0 +1,32 @@
+Creating a remote repository
+
+Linking repository
+git remote add origin https://github.com/gbemijacob/to-do.git
+
+Pushing to remote repositories
+git push origin master
+
+Forking a repository
+search and add
+
+Adding the repository to Local Machine
+copy the url
+In the working directory
+git clone https://github.com/gbemijacob/kserve.git
+
+
+How to create a branch
+git branch "data-processing"
+
+Switching to another branch
+git checkout data-processing
+
+
+Pulling from remote to Local
+git pull origin master
+
+
+Git Merge
+git merge data-preprocessing
+
+
